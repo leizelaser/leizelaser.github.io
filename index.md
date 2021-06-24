@@ -25,9 +25,11 @@ I am currently a lecturer in
 ### Teaching Materials
 
 #### Undergraduate
-- [Calculus for Economy Major](https://leizelaser.github.io/Teaching/Undergrad/CalculusIII)
+
+##### Economy & Management Major
+- [Calculus for ](https://leizelaser.github.io/Teaching/Undergrad/CalculusIII)
 - Probability Theory and Statistics
-- 
+
 #### Graduate
 - [Technology in Parallelization](https://leizelaser.github.io/Teaching/Grad/Parallelization)
 
