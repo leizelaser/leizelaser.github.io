@@ -1,5 +1,7 @@
 ## Personal Page of Ze Lei
 
+PhD, Lecturer in Xi'an University of Finance & Economics
+
 ### Curriculum Vatae
 
 I am currently a lecturer in 
