@@ -1,7 +1,5 @@
 ## Personal Page of Ze Lei
 
-
-
 ### Curriculum Vatae
 
 I am currently a lecturer in 
