@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Personal Page of Ze Lei
+# Personal Page of Ze Lei
 
 PhD, Lecturer in Xi'an University of Finance & Economics
 
