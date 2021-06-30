@@ -8,7 +8,7 @@ PhD, Lecturer in Xi'an University of Finance & Economics
 
 ### Curriculum Vatae
 
-I am currently a lecturer in 
+I am currently a lecturer in Xi'an University of Finance & Economics, Xi'an, Shaanxi, China.
 
 - If you are looking for a pdf version, click [here](https://leizelaser.github.io/CV) for more links...
 
@@ -45,7 +45,7 @@ I am currently a lecturer in
 
 - [Laboratoire de Physique](https://leizelaser.github.io/Teaching/Grad/Parallelization), Ecole Normale Superieure, Paris Science & Lettre
 - [Institute of Theoretical Physics](https://leizelaser.github.io/Teaching/Grad/Parallelization), Chinese Academy of Science
-- - - - -
+
 - [Google Scholar](https://leizelaser.github.io/Teaching/Grad/Parallelization)
 - [Research Gate](https://leizelaser.github.io/Teaching/Grad/Parallelization)
 - [Arxiv](https://leizelaser.github.io/Teaching/Grad/Parallelization)
